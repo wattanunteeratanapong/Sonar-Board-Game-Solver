@@ -29,7 +29,7 @@ Silent is used to move away from current positioon 4 space without telling your 
 ### Repair
 Repair is to repair you engine and reset walking path, but you have to reveal your submarine exact location to you opponent. <br><br>
 <img src="https://github.com/user-attachments/assets/10c87efb-9d19-4d3c-98dc-554b623f07e9" width="100%" alt="repair">
-<br><br>
+<br>
 
 For more detail check out this rulebooks : https://cdn.1j1ju.com/medias/64/53/3c-captain-sonar-rulebook.pdf 
 <br><br>
