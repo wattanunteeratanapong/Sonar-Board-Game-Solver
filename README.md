@@ -15,7 +15,7 @@ Move the submarine one space, but can't move to the location that you already be
 <img src="https://github.com/user-attachments/assets/5b56a7e1-797e-417a-a1b0-52de56e5cd01" width="100%" alt="navigate">
 
 ### Drone
-Drone is used to check weather opponent submarine is in that secction or not. <br><br>
+Drone is used to check weather opponent submarine is in that section or not. <br><br>
 <img src="https://github.com/user-attachments/assets/10b6be16-a0a6-4241-a416-d2dc47ba7866" width="100%" alt="drone">
 
 ### Sonar
@@ -36,6 +36,6 @@ For more detail check out this rulebooks : https://cdn.1j1ju.com/medias/64/53/3c
 
 
 
-## How to use a website
+## How to use a Website?
 
 
