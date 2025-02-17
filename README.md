@@ -1,10 +1,10 @@
 # Sonar Board Game Solver
 <br>
 <img src="https://cf.geekdo-images.com/GJIebwr7f57nohwY6idxDg__imagepagezoom/img/x2wfYgPqc66R5apO-MZumT91jWk=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic3662558.jpg" width="100%" alt="sonar">
-<img src="https://github.com/user-attachments/assets/345dec92-a872-401d-beee-42829ae4cfaf" width="100%" alt="sonar"> <br><br>
+<img src="https://github.com/user-attachments/assets/345dec92-a872-401d-beee-42829ae4cfaf" width="100%" alt="sonar"> <br>
 
 Have you ever played "Sonar"? <br>
-"Sonar" is a strategic board game that can play up to 8-player (each side 4-player), the more player you have the more likely your going to win. Because there are many task to do like figuring out opponent submarine location, planning maneuvering, manage resource, torpedo your opponent submarine. But with this solver you could easily won against a 1v4. Because human can't calculate all opponent possible move like a machine. You just worried about maneuvering and managing resource etc. and Let the solver figuring out where you opponent submarine is. <br><br><br>
+"Sonar" is a strategic board game that can play up to 8-player (each side 4-player), the more player you have the more likely your going to win. Because there are many task to do like figuring out opponent submarine location, planning maneuvering, manage resource, torpedo your opponent submarine. But with this solver you could easily won against a 1v4. Because human can't calculate all opponent possible move like a machine. You just worried about maneuvering and managing resource etc. and Let the solver figuring out where you opponent submarine is. <br><br>
 
 
 
